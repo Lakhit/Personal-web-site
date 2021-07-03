@@ -85,3 +85,13 @@ p {
 .links:hover{
     background-color: chartreuse;
 }
+
+html{
+    scroll-behavior: smooth;
+}
+a{
+    text-decoration: none;
+}
+.artical:hover{
+    color: aqua
+}
